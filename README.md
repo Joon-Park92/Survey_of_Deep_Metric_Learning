@@ -22,11 +22,11 @@ Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-
 
 - Beyond triplet loss: a deep quadruplet network for person re-identification (Quadruplet) (CVPR 2017) [[Paper]](https://cvip.computing.dundee.ac.uk/papers/Chen_CVPR_2017_paper.pdf)
 
-- Deep Metric Learning via Facility Location[[Paper]](https://arxiv.org/abs/1612.01213)[[Tensorflow]](https://github.com/CongWeilin/cluster-loss-tensorflow)
+- Deep Metric Learning via Facility Location (CVPR 2017) [[Paper]](https://arxiv.org/abs/1612.01213)[[Tensorflow]](https://github.com/CongWeilin/cluster-loss-tensorflow)
 
 - No Fuss Distance Metric Learning using Proxies (Proxy NCA) (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Movshovitz-Attias_No_Fuss_Distance_ICCV_2017_paper.pdf)[[Pytorch1]](https://github.com/dichotomies/proxy-nca)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
-- Deep Metric Learning with Angular Loss [[Paper]](https://arxiv.org/abs/1708.01682)[[Tensorflow]](https://github.com/geonm/tf_angular_loss)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
+- Deep Metric Learning with Angular Loss (CVPR 2017) [[Paper]](https://arxiv.org/abs/1708.01682)[[Tensorflow]](https://github.com/geonm/tf_angular_loss)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
 - Ranked List Loss for Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/abs/1903.03238)
 
