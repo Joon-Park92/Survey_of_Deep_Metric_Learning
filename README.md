@@ -87,10 +87,10 @@ Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/pap
 ---
 ### Milestone
 
-[X] Add Euclidean-based metric
+- [x] Add Euclidean-based metric
 
-[X] Add Similarity-based metric
+- [x] Add Similarity-based metric
 
-[ ] Add Ensemble-based metric
+- [ ] Add Ensemble-based metric
 
-[ ] Add brief descriptions
+- [ ] Add brief descriptions
