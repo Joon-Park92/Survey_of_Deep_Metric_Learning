@@ -12,6 +12,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet) (CVPR 2015) [[Paper]](https://arxiv.org/abs/1503.03832)[[Tensorflow]](https://github.com/omoindrot/tensorflow-triplet-loss)[[Pytorch]](https://github.com/bnulihaixia/Deep_metric)
 
+- Deep Metric Learning Using Triplet Network (ICLR 2015 workshop) [[Paper]](https://arxiv.org/abs/1412.6622)[[Keras]](https://github.com/Ariel-Perez/triplet-net)[[Torch]](https://github.com/eladhoffer/TripletNet)
+
 - Regressive Virtual Metric Learning (NIPS 2015) [[Paper]](https://papers.nips.cc/paper/5687-regressive-virtual-metric-learning)
 (Strictly speaking, they used Mahalanobis distance)
 
@@ -48,6 +50,12 @@ Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-
 
 ---
 ### 4️⃣ Ensemble method
+
+- BIER-Boosting Independent Embeddings Robustly (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Opitz_BIER_-_Boosting_ICCV_2017_paper.pdf)[[Tensorflow]](https://github.com/mop/bier)
+
+- Hard-Aware Deeply Cascaded Embedding (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yuan_Hard-Aware_Deeply_Cascaded_ICCV_2017_paper.pdf)[[Caffe]](https://github.com/PkuRainBow/HardAwareDeeplyCascadedEmbedding.caffe)
+
+- Deep Adversarial Metric Learning (CVPR 2018) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Duan_Deep_Adversarial_Metric_CVPR_2018_paper.pdf)[[Chainer]](https://github.com/duanyq14/DAML)
 
 - Deep Randomized Ensembles for Metric Learning (ECCV 2018) [[Paper]](https://arxiv.org/abs/1808.04469)[[Pytorch]](https://github.com/littleredxh/DREML)
 
