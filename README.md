@@ -99,6 +99,8 @@ Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/pap
 
 - [x] Add Similarity-based metric
 
-- [ ] Add Ensemble-based metric
+- [x] Add Ensemble-based metric
+
+- [ ] Add application web sites
 
 - [ ] Add brief descriptions
